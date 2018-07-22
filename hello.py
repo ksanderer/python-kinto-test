@@ -1,6 +1,8 @@
 from flask import Flask, jsonify
 app = Flask(__name__)
 
+# just comment
+
 """
 @api {get} /sample/{message} hello world sample request
 @apiName GetSample
